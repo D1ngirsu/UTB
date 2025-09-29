@@ -6,3 +6,13 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 UserSettings/
+# Visual Studio / Rider generated files
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.svd
+*.pdb
+*.opendb
+*.VC.db
