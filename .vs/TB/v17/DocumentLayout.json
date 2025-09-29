@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\TB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE4277-5131-358B-4076-1D9D6A809690}|Assembly-CSharp.csproj|c:\\users\\admin\\tb\\assets\\script\\playerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE4277-5131-358B-4076-1D9D6A809690}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE4277-5131-358B-4076-1D9D6A809690}|Assembly-CSharp.csproj|c:\\users\\admin\\tb\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE4277-5131-358B-4076-1D9D6A809690}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\TB\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Admin\\TB\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:09:30.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerJump.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\TB\\Assets\\Script\\PlayerJump.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerJump.cs",
+              "ToolTip": "C:\\Users\\Admin\\TB\\Assets\\Script\\PlayerJump.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerJump.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:45:26.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
