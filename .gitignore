@@ -1,43 +1,10 @@
-# =============== #
-# Unity generated #
-# =============== #
-
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Mm]emoryCaptures/
-UserSettings/
-
-# Crash / build reports
-sysinfo.txt
-
-# Unity3D generated meta files
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.mdb
-*.opendb
-
-# Builds
-*.apk
-*.aab
-*.unitypackage
-
-# IDE / Editor files
-.vscode/
-.idea/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
 *.csproj
-*.unityproj
 *.sln
-*.suo
-*.tmp
-*.user
-*.userprefs
-
-# OS generated
-.DS_Store
-Thumbs.db
