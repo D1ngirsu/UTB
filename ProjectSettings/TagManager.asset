@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Item
+  - Trap
+  - DeadZone
+  - Banana
+  - Cherry
   layers:
   - Default
   - TransparentFX

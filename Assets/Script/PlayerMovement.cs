@@ -25,7 +25,7 @@ public class PlayerMovement : MonoBehaviour
     {
         HandleMovement();
 
-        ClampMovement();
+        //ClampMovement();
 
         FlipCharacterX();
     }
